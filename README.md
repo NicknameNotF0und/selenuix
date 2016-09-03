@@ -1,2 +1,2 @@
-# selenuix
+# Selenuix
 Sélénuix' Website
